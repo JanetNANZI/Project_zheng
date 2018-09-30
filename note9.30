@@ -1,4 +1,7 @@
 # scipy = scientific calculation
 # numpy for data cleaning = matrix and array, more use for tensor
-# pandas for data cleaning = large table, to import data 
+# pandas for data cleaning = large table, to import data, transfer from array to table, intertransfer with numpy
 # sikt learn: lots of models, deep learning, 
+# ML: want the model to learn from the past data and predict the future
+# Train dataset (90%): for model to learn, test dataset (10%): to predict 
+# seaborn: data visualization 
