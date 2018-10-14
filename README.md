@@ -5,6 +5,7 @@
 
 ### 2. What data you can get to answer this question (can your data anwer your questions?)
 ### If not, what other data you need to construct on your own (from different sources) in order to answer your questions
+### Midterm: Visualizations, data, and intinal data explorations process, data cleaning 
 
 #### Background
 Interests: Financial areas, financial analysis (an assessment of the viability, stability and profitability of a business, sub-business or project.)
@@ -23,7 +24,6 @@ The process of assessing the likelihood of an adverse event occurring within the
 
 Read more: Risk Analysis | Investopedia https://www.investopedia.com/terms/r/risk-analysis.asp#ixzz5TsDnNaWb 
 
-In this area, for 
 
 #### Goal: Can we classify/predict if a particular risk in the financial area will happen or not? If avaiable, how much?
 For example, 
@@ -49,11 +49,3 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
 In this project, I would like to run different classification models to test and compare how well they classify the binary risk variables. Also, I will try variables reduction methods to see if we can cut some not useful variables, and I will use different regression models to examine how well they predict the probability of the risk. I will also try some methods we learn from this course to see if they can predict well. If there are some methods good for financial data, I am also willing to try.
 
 
-
-
-
-
-
-
-
-### Midterm: Visualizations, data, and intinal data explorations process, data cleaning 
